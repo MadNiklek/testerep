@@ -1,3 +1,4 @@
+
 // STICK SECOND NAV
 window.onscroll = function() {myFunction()};
 // Get the navbar

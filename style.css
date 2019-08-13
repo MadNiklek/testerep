@@ -1,27 +1,5 @@
-body {
-  text-align: center;
-  margin: 0;
-  padding: 0;
-  scroll-behavior: smooth;
-}
+
 /* main nav */
-.navbar{
-  /* background-color: #2f2f2f; */
-  font-size: 150%;
-  height:75px;
-}
-
-.navbar-toggler{
-  margin-right:20px;
-  color:white;
-  width:50px;
-  height:50px;
-}
-
-.collapse{
-    border-radius: 0 0 10px 10px;
-}
-
 
 /* nav2 */
 
